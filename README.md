@@ -8,7 +8,7 @@
 
 1. `git clone https://github.com/wzqs/scan_vuls.git`
 2. `sudo apt install xsltproc`
-3. git clone https://github.com/honze-net/nmap-bootstrap-xsl.git # 将 nmap-bootstrap.xsl 放置到与 thxall.sh 同路径下的 static 目录下（手动创建即可
+3. `git clone https://github.com/honze-net/nmap-bootstrap-xsl.git` # 将 nmap-bootstrap.xsl 放置到与 thxall.sh 同路径下的 static 目录下（手动创建即可
 4. 安装 dirsearch masscan nmap naabu subfinder httpx nuclei 到 plugins 目录下，除 dirsearch 外其他二进制执行程序需配置环境变量。
 
 ### 用法
